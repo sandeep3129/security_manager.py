@@ -35,13 +35,13 @@ Use the Security Manager by doing the following steps:**
 **Requirements:**
 The Security Manager script has the following requirements:
 
-*Python 3.x installed on the system.
+.Python 3.x installed on the system.
 
-*Windows operating system (tested on Windows 10).
+.Windows operating system (tested on Windows 10).
 
 **Disclaimer:**
 Please note that modifying system settings and files can have unintended consequences and may impact the normal functioning of your system. Use this script at your own risk and ensure that you have appropriate permissions to make changes to the system.
 It is recommended to create backups or restore points before making any modifications using this script.
 
 **Contributing:**
-If you would like to contribute to the Security Manager script, feel free to submit pull requests or open issues on the GitHub repository: [link to repository]
+If you would like to contribute to the Security Manager script, feel free to submit pull requests or open issues on the GitHub repository: [[link to repositor](https://github.com/sandeep3129/security_manager.py)https://github.com/sandeep3129/security_manager.py]
