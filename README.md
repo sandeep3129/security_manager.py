@@ -44,4 +44,4 @@ Please note that modifying system settings and files can have unintended consequ
 It is recommended to create backups or restore points before making any modifications using this script.
 
 **Contributing:**
-If you would like to contribute to the Security Manager script, feel free to submit pull requests or open issues on the GitHub repository: [(https://github.com/sandeep3129/security_manager.py)https://github.com/sandeep3129/security_manager.py]
+If you would like to contribute to the Security Manager script, feel free to submit pull requests or open issues on the GitHub repository: [https://github.com/sandeep3129/security_manager.py)https://github.com/sandeep3129/security_manager.py]
